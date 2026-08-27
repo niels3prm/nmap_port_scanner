@@ -1,7 +1,6 @@
 #!/bin/bash
 echo ""
 echo "N M A P - P O R T - S C A N E R			"
-echo ""
 echo "--------------------------------------------------------"
 echo "[+] 1 Scanning ports 1 to 1024 (Quick)"
 echo "[+] 2 Scaning ports 1 to 65535 (Full)"
