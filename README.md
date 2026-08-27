@@ -24,3 +24,4 @@ An interactive Bash script for network scanning using Nmap, designed to simplify
 ```bash
 git clone https://github.com/niels3prm/nmap-port-scanner.git
 chmod +x nmap-scanner.sh
+sudo nmap_scanner.sh
